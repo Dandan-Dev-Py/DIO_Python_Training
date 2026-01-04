@@ -1,9 +1,9 @@
 menu = """
 
-[d] Depositar
-[s] Sacar
-[e] Extrato
-[q] Sair
+[1] Depositar
+[2] Sacar
+[3] Extrato
+[4] Sair
 
 => """
 
@@ -39,7 +39,7 @@ while True:
         elif saque > saldo:
             print("Saldo insuficiente")  
         elif saque > limite:
-            print("o limite de saque é 500 reais")          
+            print("o limite de saque é apenas 500 reais")          
 
 
     if opcao == "e":
