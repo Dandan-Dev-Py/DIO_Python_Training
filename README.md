@@ -14,4 +14,7 @@ Armazenar todos os projetos que eu fizer para que fiquem eternizados e possivelm
 
 ## Guia dos Projetos
 
-### [01- Criando um sistema bancario em Python](https://github.com/Dandan-Dev-Py/DIO_Python_Training/tree/main/01-%20Criando%20um%20sistema%20bancario%20em%20Python) Sem IA
+### [01- Criando um sistema bancario em Python](https://github.com/Dandan-Dev-Py/DIO_Python_Training/tree/main/01-%20Criando%20um%20sistema%20bancario%20em%20Python) Projeto DIO 
+
+### [02 - Apicando Funções no sistema bancario em Python]() Projeto DIO
+
