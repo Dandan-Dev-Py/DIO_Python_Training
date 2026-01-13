@@ -45,6 +45,7 @@ while True:
     if opcao == "e":
         if extrato != "":
             print(f'Extrato = {extrato} \n \n Saldo restante = {saldo}')
+
         if extrato == "":
             print(f"não foram realizadas movimentações \n \n Saldo restante = {saldo}")
     
